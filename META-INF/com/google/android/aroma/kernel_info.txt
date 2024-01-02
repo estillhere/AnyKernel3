@@ -1,11 +1,11 @@
 <@center><b><#selectbg_g>ENGLISH</#></b>
 
-<@center><b><#selectbg_g>TheOneMemory Kernel</#></b>
+<@center><b><#selectbg_g>Lospecados Kernel</#></b>
 
 <b><#selectbg_g>Some Messages from me :</#></b></@>
 
 <@fill><q>
-TheOneMemory Kernel is made with love by @fakedotkit 
+Lospecados Kernel is made with love by @steyhist, im so thankyou to @fakedotkit and @Ryuujix for some source to build this kernel!
 which he's trying to give good experience for 
 any users :) .
  
@@ -23,14 +23,13 @@ Thank You for choosing this Kernel !. </q></@>
 
 <@center><b><#selectbg_g>INDONESIA</#></b>
 
-<@center><b><#selectbg_g>Kernel TheOneMemory</#></b>
+<@center><b><#selectbg_g>Kernel Lospecados</#></b>
 
-<b><#selectbg_g>Sedikit Pesan dari gw :</#></b></@>
+<b><#selectbg_g>Sedikit pesan dari saya :</#></b></@>
 
 <@fill><q>
-Kernel TheOneMemory dibuat dengan cinta dari
-@fakedotkit (ANJING AWOKAWOKAWOK), yang
-dimana dia mencoba untuk memberikan
+Kernel Lospecados dibuat dengan brutal oleh
+@steyhist, dan saya ingin sangat bertrimakasih kepada @fakedotkit dan @Ryuujix buat segala sumber yang di butuhkan untuk tercipta kernel ini, yangdimana dia mencoba untuk memberikan
 pengalaman terbaik bagi pengguna yg terobsesi ingin menjadi pro player.
  
 Agan dapat mengatur kernel dengan
