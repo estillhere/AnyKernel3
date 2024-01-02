@@ -36,12 +36,12 @@ ini_set("rom_date", "KBDATE");
 ##############################################
 ini_set("force_colorspace", "rgba");
 splash(
-    5000,
-    "tom2"
+    5500,
+    "lp"
 );
 theme("materialize_blacksline");
-fontresload( "0", "ttf/Rosemary-Regular.ttf", "12" );
-fontresload( "1", "ttf/Rosemary-Regular.ttf", "14" );
+fontresload( "0", "ttf/CoconRegularFont.otf", "12" );
+fontresload( "1", "ttf/CoconBoldFont.otf", "14" );
 
 selectbox(
     "Language","<@center><b>\nSelect Language:</b>\n\n</@>","@language","lang.prop",
