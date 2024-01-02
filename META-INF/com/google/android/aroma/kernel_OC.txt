@@ -1,6 +1,6 @@
 <@center><b><#selectbg_g>ENGLISH</#></b>
 
-<@center><b><#selectbg_g>TheOneMemory Kernel</#></b>
+<@center><b><#selectbg_g>Losprcados Kernel</#></b>
 
 <b><#selectbg_g>About Overclocked Kernel :</#></b></@>
 
@@ -20,7 +20,7 @@ own risk :) .
 
 <@center><b><#selectbg_g>INDONESIA</#></b>
 
-<@center><b><#selectbg_g>Kernel TheOneMemory</#></b>
+<@center><b><#selectbg_g>Kernel Lospecados</#></b>
 
 <b><#selectbg_g>Tentang Kernel yang diOverclock :</#></b></@>
 
@@ -28,7 +28,7 @@ own risk :) .
 <b>
 Kernel yang diOverclock itu sebenarnya aman
 apabila agan menggunakannya dengan hati-hati .
-Tapi tetap Resiko ditanggung Pemenang :) .
+Tapi tetap Resiko ditanggung sendiri!.
 </b>
 
 <b>NOTE:
